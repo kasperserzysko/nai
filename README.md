@@ -17,7 +17,7 @@
 
 ## UŻYTKOWANIE:
 
-  Biblioteki wymagane do odpalenia projektu znajdują się w pliku requirements.txt
+  Biblioteki wymagane do odpalenia projektu znajdują się w pliku [requirements.txt](requirements.txt)
 
   Po zainstalowaniu wszystkich wymaganych bibliotek w konsoli musimy wpisać
 ```
