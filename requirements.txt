@@ -1,0 +1,4 @@
+python 3.10
+pip install transformers
+pip install selenium
+pip install torch
